@@ -1,0 +1,14 @@
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1> Our Services </h1>
+
+<p> Our services include.... </p>
+<p> Website Creation, Website Maintenance, and MORE! </p>
+<img src="pic4.jpg" alt="This is pic"/>
+<img src="pic5.jpg" alt="This ia pic"/>
+
+</body>
+</html>
